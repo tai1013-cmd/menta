@@ -1,4 +1,4 @@
-package src.service;
+package src.service.recruit;
 
 import src.service.impl.ITestService;
 

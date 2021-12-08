@@ -1,4 +1,4 @@
-package src.model;
+package src.model.user;
 
 public class TestModel {
 	private String test = "";

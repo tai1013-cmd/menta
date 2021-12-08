@@ -1,4 +1,4 @@
-package src.controller;
+package src.controller.object;
 
 public class TestController {
 

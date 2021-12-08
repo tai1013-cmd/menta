@@ -1,4 +1,4 @@
-package src.dao;
+package src.dao.skill;
 
 import src.dao.impl.ITestDao;
 
